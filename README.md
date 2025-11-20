@@ -255,7 +255,4 @@ REACT_APP_API_URL=http://localhost:5000/api
 
 ---
 
-## 📞 Contact
-**Mohamed Sanib**  
-For demo, collaboration, or hiring inquiries.
 
